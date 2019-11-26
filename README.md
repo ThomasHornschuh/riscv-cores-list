@@ -64,9 +64,10 @@ BI-350 | CloudBEAR | [Website](https://cloudbear.ru/bi_350.html) | 1.10 | RV32IM
 BI-651 | CloudBEAR | [Website](https://cloudbear.ru/bi_651.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 BI-671 | CloudBEAR | [Website](https://cloudbear.ru/bi_671.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github.com/risclite/SuperScalar-RISCV-CPU) | 1.10 | RV32IMC | Verilog | Apache 2.0
+Bonfire |Thomas Hornschuh|[Website](https://bonfirecpu.eu),[GitHub](https://github.com/bonfireprocessor/bonfire-cpu)|1.10 M-Mode (CSR Subset)|RV32IM, 2.1|VHDL|MIT
+
 
 ## SoC platforms
-
 Name | Supplier | Links | Core | License
 ---- | -------- | ----- | ---- | -------
 Rocket Chip | SiFive, UCB BAR | [GitHub](https://github.com/freechipsproject/rocket-chip),[Simulator](https://fires.im) | Rocket | BSD
